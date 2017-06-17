@@ -1,18 +1,22 @@
 // summary.js
+
+var data = require('../../utils/data.js')
+var wxCharts = require('../../utils/wxcharts.js')
+
 Page({
 
   /**
    * 页面的初始数据
    */
   data: {
-  
+      summaryData : data.getSummaryData(),
   },
 
   /**
    * 生命周期函数--监听页面加载
    */
   onLoad: function (options) {
-  
+
   },
 
   /**

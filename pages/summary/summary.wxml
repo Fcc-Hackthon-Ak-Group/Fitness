@@ -1,2 +1,2 @@
 <!--summary.wxml-->
-<text>summary.wxml</text>
+<text>{{ summaryData.summaryDetail[0].time }}</text>
