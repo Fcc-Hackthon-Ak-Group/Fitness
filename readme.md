@@ -6,4 +6,4 @@
 
 ## 技术栈
 - 微信小程序
-- eharts
+- wx-charts
